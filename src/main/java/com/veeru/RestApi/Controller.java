@@ -47,6 +47,8 @@ public class Controller {
 				userInfo.setEmailRecognized("N");
 			}
 		}
+
+		System.out.println("Adding a system the out for cheery picking");
 		
 		return userInfo;
 	}
